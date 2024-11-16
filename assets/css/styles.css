@@ -21,7 +21,7 @@
   --fs-4: 24px;
   --fs-5: 20px;
   --fs-6: 18px;
-  --fs-89:77px;
+  --fs-89: 77px;
   --fs-7: 16px;
   --fs-8: 15px;
   --fs-9: 14px;
@@ -350,5 +350,4 @@ main {
 .book button:hover {
   background-color: var(--white);
   color: var(--citrine);
-  padding: 0%;
 }
