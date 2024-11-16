@@ -1,0 +1,76 @@
+{
+  "book_array": [
+    {
+      "book_title": "Outlander",
+      "image": "/imgs/Books/1984.jpg",
+      "author": "Diana Gabaldon",
+      "content": "Outlander follows the story of Claire Randall, a World War II combat nurse who is mysteriously transported back in time to 18th century Scotland, where she becomes entangled in the Jacobite risings and a passionate love story with a Highland warrior."
+    },
+    {
+      "book_title": "Rich Dad Poor Dad",
+      "image": "https://example.com/richdad.jpg",
+      "author": "Robert Kiyosaki",
+      "content": "Rich Dad Poor Dad explores the differences between two fathers – one wealthy and one poor – and how their approaches to money and life shaped the author's financial understanding. It offers life-changing lessons on financial independence and investing."
+    },
+    {
+      "book_title": "The Great Gatsby",
+      "image": "https://example.com/greatgatsby.jpg",
+      "author": "F. Scott Fitzgerald",
+      "content": "Set in the Roaring Twenties, The Great Gatsby explores themes of wealth, love, and the American Dream through the eyes of Nick Carraway, a young man who is drawn into the world of his mysterious neighbor, Jay Gatsby."
+    },
+    {
+      "book_title": "1984",
+      "image": "https://example.com/1984.jpg",
+      "author": "George Orwell",
+      "content": "1984 is a dystopian novel set in a totalitarian society controlled by the Party and its leader, Big Brother. Winston Smith, the protagonist, struggles to maintain his individuality and sanity in a world where surveillance and propaganda dominate."
+    },
+    {
+      "book_title": "The Catcher in the Rye",
+      "image": "https://example.com/catcherintherye.jpg",
+      "author": "J.D. Salinger",
+      "content": "The Catcher in the Rye narrates the life of Holden Caulfield, a disillusioned teenager in New York City who is grappling with the pain of growing up and the complexities of adult society."
+    },
+    {
+      "book_title": "To Kill a Mockingbird",
+      "image": "https://example.com/tokillamockingbird.jpg",
+      "author": "Harper Lee",
+      "content": "Set in the Depression-era South, To Kill a Mockingbird follows young Scout Finch as she witnesses her father, lawyer Atticus Finch, defend a black man accused of raping a white woman, exploring themes of racial injustice and moral growth."
+    },
+    {
+      "book_title": "The Hobbit",
+      "image": "https://example.com/hobbit.jpg",
+      "author": "J.R.R. Tolkien",
+      "content": "The Hobbit is a high fantasy adventure that follows Bilbo Baggins, a hobbit who is swept into an epic quest to reclaim the Lonely Mountain and its treasure from the dragon Smaug. Along the way, he encounters trolls, elves, goblins, and an enchanted ring."
+    },
+    {
+      "book_title": "The Alchemist",
+      "image": "https://example.com/alchemist.jpg",
+      "author": "Paulo Coelho",
+      "content": "The Alchemist is an inspiring tale of Santiago, a shepherd boy who embarks on a journey to find a treasure hidden in the Egyptian pyramids, learning valuable life lessons along the way about following one's dreams and listening to one's heart."
+    },
+    {
+      "book_title": "Becoming",
+      "image": "https://example.com/becoming.jpg",
+      "author": "Michelle Obama",
+      "content": "Becoming is a memoir by former First Lady Michelle Obama, chronicling her life from her childhood in Chicago to her time in the White House, exploring her personal struggles, achievements, and the challenges of being a public figure."
+    },
+    {
+      "book_title": "The Secret",
+      "image": "https://example.com/secret.jpg",
+      "author": "Rhonda Byrne",
+      "content": "The Secret explores the law of attraction and how positive thinking can bring happiness, success, and wealth. It emphasizes the power of visualization and belief in achieving one’s desires."
+    },
+    {
+      "book_title": "The Angels Die in Morocco",
+      "image": "https://example.com/angelsdiedmorocco.jpg",
+      "author": "Mohammed Berrada",
+      "content": "This novel explores themes of exile and alienation through the story of a Moroccan man in France, as he faces the struggles of adapting to a foreign culture while reminiscing about his homeland."
+    },
+    {
+      "book_title": "The Sand Child",
+      "image": "https://example.com/sandchild.jpg",
+      "author": "Tahar Ben Jelloun",
+      "content": "Set in Morocco, The Sand Child tells the story of a boy who grows up in a rural village and confronts the complexities of identity, family, and the changing world around him."
+    }
+  ]
+}
